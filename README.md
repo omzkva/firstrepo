@@ -1,3 +1,7 @@
-I`m Alina
+<h1>Project name!</h1>
 
-hi
+Short description...
+
+Commands for start project
+
+Mini tutorial
